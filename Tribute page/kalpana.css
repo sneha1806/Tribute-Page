@@ -1,0 +1,227 @@
+*{
+    margin:0;
+    padding:0;
+    border:border-box;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.space{
+    width:100vw;
+    height: 789px;
+    background-image: url("images/space.jpg");
+    background-size:cover;
+}
+
+.a{
+    padding-top: 50px;
+    margin-left: 100px;
+    display:flex;
+    font-size:25px;
+}
+
+.c{
+    margin-left: 840px;
+}
+
+.d{
+    margin-left:300px;
+    padding-top: 200px;
+    font-size: 100px;
+    color:rgb(252, 252, 182);
+}
+
+.e{
+    padding-top: 40px;
+    margin-left: 310px;
+    font-size: 25px;
+    font-family:serif;  
+    font-weight: 600; 
+}
+
+.f{
+    margin-left: 380px;
+    font-size: 25px;
+    font-family:serif;
+    font-weight: 600; 
+}
+
+.g{
+    width:100vw;
+    height:600px;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0px -100px 150px rgb(0, 0, 0);
+    display: flex;
+}
+
+.photo{
+    height:500px;
+    width:450px;
+    background-image: url("images/kalpana.jpg");
+    background-size: cover;
+    margin-left: 150px;
+}
+
+.h{
+    padding-top:80px;
+}
+
+.txt{
+    margin-left: 10px;
+    padding-top:80px;
+    font-size: 25px;
+}
+
+.i{
+    width:100vw;
+    height:100px;
+    background-color:rgb(0, 0, 0);
+}
+
+.j{
+    width:100vw;
+    height:500px;
+    background-color: rgb(181, 159, 118);
+}
+
+.bio{
+    font-size: 70px;
+    margin-left: 380px;
+    padding-top:70px;
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(0, 0, 0);
+}
+
+.content{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+
+.t{
+    width:100vw;
+    height:700px;
+    display:flex;
+}
+
+.n,.p,.r{
+    background-color:#000000;
+}
+
+.o,.q,.s{
+    background-color:rgb(181, 159, 118);
+}
+
+.aa{
+    font-size: 60px;
+    margin-left: 240px;
+    padding-top:100px;
+    font-family:serif;
+    
+}
+
+.p1{
+    height:370px;
+    width:370px;
+    margin-left:180px;
+    margin-top: 40px;
+    background-image: url("images/photo1.jpg");
+    background-size: cover;
+}
+
+
+.dd{
+    font-size: 25px;
+    padding-top:220px;
+}
+
+.p2{
+    height:420px;
+    width:420px;
+    background-image: url("images/photo2.png");
+    background-size: cover;
+    margin-left: 120px;
+}
+
+.w1{
+    padding-top: 80px;
+    margin-left: 180px;
+}
+
+.w2{
+    padding-top: 0;
+    margin-left: 220px;
+}
+
+.p3{
+    height:420px;
+    width:310px;
+    background-image:url("images/awards.jpg");
+    background-size:cover;
+    margin-left: 310px;
+    margin-top: 40px;
+}
+
+.a2{
+    margin-left: 370px;
+    padding-top: 70px;
+}
+
+.a0{
+    color:rgb(255, 232, 163);
+}
+
+.a9{
+    color:black;
+}
+
+.p4{
+    height:500px;
+    width:500px;
+    background-image: url("images/experience.png");
+    background-size: cover;
+    margin-left: 50px;
+}
+
+.p5{
+    height:450px;
+    width:450px;
+    background-image:url("images/nasa experience.png") ;
+    background-size: cover;
+    margin-left: 105px;
+}
+
+.p6{
+    height:450px;
+    width:450px;
+    background-image: url("images/space flight experience.png");
+    background-size: cover;
+    margin-left: 55px;
+}
+
+.m{
+    height:150px;
+    width:150px;
+    border-radius: 50%;
+    background-color: #0e1624;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    text-decoration: none;
+    box-shadow: 0 0 50px #ffd500;
+}
+
+.quote{
+    width:100vw;
+    height:200px;
+    background-color: black;
+    color:yellow;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: monospace;
+}
